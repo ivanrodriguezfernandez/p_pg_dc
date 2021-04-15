@@ -12,7 +12,7 @@ All username, passwords are stores in the `db.env` file
 1 - go to `localhost:5050`
 
 2 - login with `PGADMIN_DEFAULT_EMAIL` and `PGADMIN_DEFAULT_PASSWORD` in 
-`database.env` file
+`db.env` file
 
 3 - Add new Server:
   - Hostname: postgres
