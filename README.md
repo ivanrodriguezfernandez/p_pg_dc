@@ -5,8 +5,7 @@ Docker compose file to run postgres with pgadmin locally. Not suitable for produ
 All username, passwords are stores in the `db.env` file
 
 ## Run
-- `docker-compose up` for foreground
-- `docker-compose up -d ` to run in background
+> docker-compose up  
 
 ## Connect pgAdmin to postgress
 1 - go to `localhost:5050`
